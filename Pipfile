@@ -14,6 +14,9 @@ flask-restful = "*"
 sqlalchemy-serializer = "*"
 flask-jwt-extended = "*"
 pyjwt = "*"
+google-auth = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
 
 [dev-packages]
 
